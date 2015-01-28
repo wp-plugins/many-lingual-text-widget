@@ -1,5 +1,5 @@
 === Many lingual text widget ===
-Contributors: takayukister
+Contributors: superpuperlesha
 Donate link: http://2buyweb.com/?p=727
 Tags: translate, lingual, widget, text widget, qtranslate, qtranslate x, language
 Requires at least: 3.1
