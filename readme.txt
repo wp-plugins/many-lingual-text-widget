@@ -17,7 +17,7 @@ Many lingual text widget For Wordpress with Qtranslate or Qtranslate-x
 
 = Docs =
 
-You can find [docs](http://2buyweb.com/?p=727)
+You can find [docs](http://2buyweb.com/mltw/)
 
 == Installation ==
 
